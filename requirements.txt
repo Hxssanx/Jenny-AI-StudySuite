@@ -1,0 +1,5 @@
+streamlit
+groq
+duckduckgo-search
+youtube-transcript-api
+python-dotenv
